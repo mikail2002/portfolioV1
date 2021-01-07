@@ -1,0 +1,44 @@
+#sidebar-wrapper {
+  background-color: rgba(65, 80, 83, 0.7);
+}
+
+.mb-1 {
+  color: #51696d;
+  text-shadow: -4px 0px 7px black;
+}
+
+#name1 {
+  color: #51696d;
+  text-shadow: -4px 0px 7px black;
+}
+
+#name2 {
+  color: #51696d;
+  text-shadow: -4px 0px 6px black;
+}
+
+#services {
+  background: #191b1a;
+}
+
+#callout1 {
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%) center center/cover no-repeat, url(&quot;assets/img/DSC2843-2.jpg&quot;) top/cover no-repeat;
+}
+
+.row2 {
+  margin-top: 435px;
+}
+
+.contactcolor1 {
+  color: white;
+}
+
+#footer1 {
+  background: #191b1a;
+}
+
+#span1 {
+  background: #191b1a;
+}
+
+/*# sourceMappingURL=style.css.map */

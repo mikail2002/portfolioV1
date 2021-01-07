@@ -1,0 +1,47 @@
+$backgroundc1: rgba(65,80,83,0.7);
+$headcolor1: rgb(81,105,109);
+$bgcolor2: rgb(25,27,26);
+$ccolor1: rgb(255,255,255);
+
+#sidebar-wrapper {
+  background-color: $backgroundc1;
+}
+
+.mb-1{
+  color: $headcolor1;
+  text-shadow: -4px 0px 7px rgb(0,0,0);
+}
+
+#name1{
+  color: rgb(81,105,109);
+  text-shadow: -4px 0px 7px rgb(0,0,0);
+}
+
+#name2{
+  color: $headcolor1;
+  text-shadow: -4px 0px 6px rgb(0,0,0);
+}
+
+#services{
+  background: $bgcolor2;
+}
+
+#callout1{
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%) center center / cover no-repeat, url(&quot;assets/img/DSC2843-2.jpg&quot;) top / cover no-repeat;
+}
+
+.row2{
+  margin-top: 435px;
+}
+
+.contactcolor1{
+  color: $ccolor1;
+}
+
+#footer1{
+  background: $bgcolor2;
+}
+
+#span1{
+  background: $bgcolor2;
+}
